@@ -1,2 +1,2 @@
 # Electricity-use-computer
-Anthony Mancini(Uncle) and Gideon Yeti(Gidhub)
+Anthony Mancini and Gideon Yektai
